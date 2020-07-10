@@ -1,7 +1,6 @@
 name: platform_ex
 description: Platform check
 version: 0.0.1
-author: Tlaster
 homepage: https://github.com/Tlaster/platform_ex
 
 environment:
